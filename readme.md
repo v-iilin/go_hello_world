@@ -6,5 +6,6 @@ go hello world tutorial from go.dev
 3. https://go.dev/doc/tutorial/call-module-code
 4. https://go.dev/doc/tutorial/handle-errors
 5. https://go.dev/doc/tutorial/random-greeting
+6. https://go.dev/doc/tutorial/greetings-multiple-people
 ### current:
-1. https://go.dev/doc/tutorial/greetings-multiple-people
+1. https://go.dev/doc/tutorial/add-a-test
